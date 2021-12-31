@@ -57,7 +57,7 @@ Graphql, Mongodb, Javascript, etc.
 
 # Thanks for visiting My Github  ❤️
 
-<img  alt="coder" margin=0 src="https://github.com/Kaggrov/Kaggrov/blob/main/Assets/coder1.gif?raw=true" width="460px" height="384px"/><img  align="right" alt="coder" margin=0 src="https://github.com/Kaggrov/Kaggrov/blob/main/Assets/coder.gif?raw=true" width="470px" height="384px" />
+<img  alt="coder" margin=0 src="https://github.com/Kaggrov/Kaggrov/blob/main/Assets/coder1.gif?raw=true" width="400px" height="384px"/><img  align="right" alt="coder" margin=0 src="https://github.com/Kaggrov/Kaggrov/blob/main/Assets/coder.gif?raw=true" width="400px" height="384px" />
 
 
 
