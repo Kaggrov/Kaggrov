@@ -10,13 +10,13 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="100px" /> I am a 3rd year Information Science and Engineering student at Ramaiah Institute of Technology ,Bangalore.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20vw" /> A budding Software Engineer, who is hardworking, dedicated , focused and always obsessed with idea to grow and excel.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I love to explore new technologies and leverage them to solve real-life problems 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />I'm currently into Full Stack Development and working on my Data Structures and Algorithms.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" />  I’m currently working with Nodejs, Express, React,
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="45px" /> I am a 3rd year Information Science and Engineering student at Ramaiah Institute of Technology ,Bangalore.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="45px" /> A budding Software Engineer, who is hardworking, dedicated , focused and always obsessed with idea to grow and excel.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="45px" /> I love to explore new technologies and leverage them to solve real-life problems 
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="45px" />I'm currently into Full Stack Development and working on my Data Structures and Algorithms.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="45px" />  I’m currently working with Nodejs, Express, React,
 Graphql, Mongodb, Javascript, etc.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> I am also into Competitive Programming and regulary give contests on codechef and codeforces.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="45px" /> I am also into Competitive Programming and regulary give contests on codechef and codeforces.
 <br>
 
 # Languages and Tools:
