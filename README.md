@@ -44,7 +44,7 @@ Graphql, Mongodb, Javascript, etc.
 
 ![Kaggrov's github stats](https://github-readme-stats.vercel.app/api?username=Kaggrov&show_icons=true&theme=radical&include_all_commits=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaggrov&langs_count=8&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaggrov&langs_count=8&theme=radical&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 # Connect with me<img src="https://media4.giphy.com/media/UnyKXModRZbJZiJhSW/200w.webp?cid=ecf05e47jxxv2hi1y9meg8z6wcwh67ipxatsj3b18vj8ddxu&rid=200w.webp&ct=s" width="50px" height="50px">
